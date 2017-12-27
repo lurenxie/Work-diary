@@ -9,3 +9,23 @@
 12.26
 	1、准备进行下个阶段的学习，主要是自适应和移动端
 	2、开始着手了解css3的动画和h5
+12.27
+	1、https://www.zhihu.com/question/53545802
+	2、首先布局header，让header紧贴顶部，为header内部布局，保证3块文字分别居于header的左中右，并垂直居中
+	3、https://www.tuicool.com/articles/7V3eqan
+	4、布局表单内容，至少包含input和button
+	5、为input旁边的小图标切图
+
+
+
+
+
+
+
+
+
+
+
+
+
+
