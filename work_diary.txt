@@ -15,6 +15,8 @@
 	3、https://www.tuicool.com/articles/7V3eqan
 	4、布局表单内容，至少包含input和button
 	5、为input旁边的小图标切图
+12.30
+	1、还是有很多基础的问题存在较大的问题，回去多看看别人的实现方法
 
 
 
@@ -29,3 +31,4 @@
 
 
 
+                                                                                                                                                                                                                                 
