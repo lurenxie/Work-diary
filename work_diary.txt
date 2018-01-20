@@ -11,13 +11,16 @@
 	2、开始着手了解css3的动画和h5
 12.27
 	1、https://www.zhihu.com/question/53545802
-	2、首先布局header，让header紧贴顶部，为header内部布局，保证3块文字分别居于header的左中右，并垂直居中
+	2、首先布局header，让header紧贴顶部，为header内部布局，保证3块文字分别居		于header的左中右，并垂直居中
 	3、https://www.tuicool.com/articles/7V3eqan
 	4、布局表单内容，至少包含input和button
 	5、为input旁边的小图标切图
 12.30
 	1、还是有很多基础的问题存在较大的问题，回去多看看别人的实现方法
 
+1.20
+	1、重写登录界面，采用圣杯布局和双飞翼布局，按钮采用生成按钮
+	   ，改变按钮的大小形状颜色并加阴影；
 
 
 
@@ -29,6 +32,4 @@
 
 
 
-
-
-                                                                                                                                                                                                                                 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
